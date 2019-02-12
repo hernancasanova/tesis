@@ -1,0 +1,62 @@
+[{ 
+   "id":"17655025-1",
+   "name":"Juan Pérez",
+   "email":"juan.perez@alumnos.uach.cl",
+   "city":"Valdivia",
+   "programName":"Ingeniería civil mecánica",
+   "startYear":2010,
+   "courseTaken":[{	
+         "semester":"I ",
+         "year":2010,
+         "state":"cursed",
+         "Courses": [
+         {"nombre":"Optativo de Formación General I","courseid":"INFO013","distributiongrades":[2,3,3,5,6,4],"grade": 5.9,"gradeAprobation":4.0,"status":"passed"},{"nombre":"Álgebra para Ingeniería","courseid":"BAIN017","distributiongrades":[1,2,4,5,5,5],"grade":4.1,"gradeAprobation":4.0,"status":"passed"},{"nombre":"Geometría para Ingeniería","courseid":"BAIN012","distributiongrades":[2,4,2,4,5,6],"grade":4.0,"gradeAprobation":4.0,"status":"passed"},
+         {"nombre":"Comunicación Idioma Español","courseid":"BAIN009","distributiongrades":[0,3,5,7,5,2],"grade":6.1,"gradeAprobation":4.0,"status":"passed"},{"nombre":"Taller de Ingeniería I","courseid":"INFO015","distributiongrades":[0,1,3,7,6,4],"grade":6.4,"gradeAprobation":4.0,"status":"passed"},{"nombre":"Química para Ingeniería","courseid":"BAIN019","distributiongrades":[1,3,3,5,6,6],"grade":4.2,"gradeAprobation":4.0,"status":"passed"}]
+      },
+      {
+         "semester":"II ",
+         "year":2010,
+         "state":"cursed",
+         "Courses": [
+         {"nombre":"Educación Física y Salud","courseid":"DYRE060","distributiongrades":[25,0,0,0,0,0],"grade":0,"gradeAprobation":4.0,"status":"passed"},{"nombre":"Programación","courseid":"INFO023","distributiongrades":[1,6,7,5,3,2],"grade": 4.0,"gradeAprobation":4.0,"status":"passed"},{"nombre":"Álgebra Lineal para Ingeniería","courseid":"BAIN036","distributiongrades":[3,2,5,2,4,2],"grade":4.0,"gradeAprobation":4.0,"status":"passed"},{"nombre":"Cálculo en una Variable","courseid":"BAIN037","distributiongrades":[2,2,4,4,2,7],"grade":4.0,"gradeAprobation":4.0,"status":"passed"},
+         {"nombre":"Física: Mecánica","courseid":"BAIN038","distributiongrades":[1,2,5,4,6,5],"grade":4.8,"gradeAprobation":4.0,"status":"passed"},{"nombre":"Comunicación Idioma Inglés","courseid":"BAIN039","distributiongrades":[0,2,4,4,7,6],"grade":4.4,"gradeAprobation":4.0,"status":"passed"},
+         {"nombre":"Taller de Ingeniería II","courseid":"INFO025","distributiongrades":[0,1,8,3,5,4],"grade":5.9,"gradeAprobation":4.0,"status":"passed"}]
+      },
+      {
+         "semester":"I ",
+         "year":2011,
+         "state":"cursed",
+         "Courses": [{"nombre":"Cálculo en Varias Variables","courseid":"BAIN037","distributiongrades":[2,3,3,5,6,4],"grade": 3.5,"gradeAprobation":4.0,"status":"anuled"},
+         {"nombre":"Máquina y Herramientas","courseid":"INFO043","distributiongrades":[2,3,3,5,6,4],"grade": 4.1,"gradeAprobation":4.0,"status":"passed"},{"nombre":"Optativo de Formación General II","courseid":"INFO033","distributiongrades":[2,3,3,5,6,4],"grade":5.0,"gradeAprobation":4.0,"status":"passed"},
+         {"nombre":"Física: Ondas y Electromagnetismo","courseid":"BAIN038","distributiongrades":[2,3,3,5,6,4],"grade":4.1,"gradeAprobation":4.0,"status":"passed"}, {"nombre":"Taller de Ingeniería III","courseid":"INFO035","distributiongrades":[2,3,3,5,6,4],"grade":5.3,"gradeAprobation":4.0,"status":"passed"}]
+      },
+      {
+         "semester":"II ",
+         "year":2011,
+         "state":"cursed",
+         "Courses": [
+            {"nombre":"Estadísticas y Probabilidades para Ingeniería","courseid":"INFO053","distributiongrades":[2,3,3,5,6,4],"grade": 3.0,"gradeAprobation":4.0,"status":"passed"},{"nombre":"Administración de Empresas","courseid":"ADMI100","distributiongrades":[2,3,3,5,6,4],"grade":5.1,"gradeAprobation":4.0,"status":"passed"},
+            {"nombre":"Cálculo en Varias Variables","courseid":"BAIN037","distributiongrades":[2,3,3,5,6,4],"grade":3.4,"gradeAprobation":4.0,"status":"passed"},
+         {"nombre":"Dibujo de Ingeniería","courseid":"XXXX","distributiongrades":[2,3,3,5,6,4],"grade":5.2,"gradeAprobation":4.0,"status":"passed"},{"nombre":"Ecuaciones Diferenciales para Ingeniería","courseid":"BAIN041","distributiongrades":[2,3,3,5,6,4],"grade": 2.5,"gradeAprobation":4.0,"status":"passed"}]
+      },
+      {
+         "semester":"I ",
+         "year":2012,
+         "state":"anuled",
+         "Courses": [
+            {"nombre":"Ecuaciones Diferenciales para Ingeniería","courseid":"BAIN041","distributiongrades":[2,3,3,5,6,4],"grade": 2.5,"gradeAprobation":4.0,"status":"passed"},{"nombre":"Cálculo II para Ingeniería","courseid":"BAIN042","distributiongrades":[2,3,3,5,6,4],"grade":2.8,"gradeAprobation":4.0,"status":"passed"},
+            {"nombre":"Estructuras de Datos y Algoritmos","courseid":"INFO053","distributiongrades":[2,3,3,5,6,4],"grade":4.0,"gradeAprobation":4.0,"status":"passed"},
+         {"nombre":"Física II para Ingeniería","courseid":"BAIN043","distributiongrades":[2,3,3,5,6,4],"grade":3.2,"gradeAprobation":4.0,"status":"passed"},
+         {"nombre":"Arquitectura de Computadores","courseid":"INFO184","distributiongrades":[2,3,3,5,6,4],"grade":4.4,"gradeAprobation":4.0,"status":"passed"}]
+      },
+      {
+         "semester":"II ",
+         "year":2012,
+         "state":"cursed",
+         "Courses": [
+         {"nombre":"Estadísticas y Probabilidades para Ingeniería","courseid":"INFO053","distributiongrades":[2,3,3,5,6,4],"grade": 3.8,"gradeAprobation":4.0,"status":"passed"},{"nombre":"Ciencias de los Materiales","courseid":"INFO163","distributiongrades":[2,3,3,5,6,4],"grade": 2.3,"gradeAprobation":4.0,"status":"passed"},{"nombre":"Taller de Diseño en Ingeniería","courseid":"INFO164","distributiongrades":[2,3,3,5,6,4],"grade":2.8,"gradeAprobation":4.0,"status":"passed"},{"nombre":"Ecuaciones Diferenciales para Ingeniería","courseid":"BAIN041","distributiongrades":[2,3,3,5,6,4],"grade":3.7,"gradeAprobation":4.0,"status":"passed"},
+         {"nombre":"Cálculo en Varias Variables","courseid":"BAIN042","distributiongrades":[2,3,3,5,6,4],"grade":4.0,"gradeAprobation":4.0,"status":"passed"},
+         {"nombre":"Física: Fluidos y Termodinámica","courseid":"INFO265","distributiongrades":[2,3,3,5,6,4],"grade":4.4,"gradeAprobation":4.0,"status":"passed"}]
+      }
+   ]
+}]

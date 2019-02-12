@@ -1,0 +1,453 @@
+[{
+	"programName":"Ingeniería Civil Mecánica",
+	"programCode":"infoxxxx",
+	"version":"abril2017",
+	"areas":["especialidad","general","vinculante","optativa"],
+	"terms":[
+	{
+		"position":1,
+		"courses":[{
+			"name":"Álgebra para Ingeniería",
+			"id":"BAIN017",
+			"credits":2,
+			"gradeAprobation":4.0,
+			"historic":[6,5,4,3,2,1],
+			"area":"especialidad",
+			"requisites":[""]
+			},{
+				"name":"Geometría para Ingeniería",
+				"id":"BAIN012",
+				"credits":5,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"especialidad",
+				"requisites":[""]
+			},{
+				"name":"Química para Ingeniería",
+				"id":"BAIN019",
+				"credits":2,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"general",
+				"requisites":[""]
+			},{
+				"name":"Comunicación Idioma Español",
+				"id":"BAIN009",
+				"credits":5,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"general",
+				"requisites":[""]
+			},{
+				"name":"Taller de Ingeniería I",
+				"id":"INFO015",
+				"credits":3,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"vinculante",
+				"requisites":[""]
+			},{
+			"name":"Optativo de Formación General I",
+			"id":"INFO013",
+			"credits":1,
+			"gradeAprobation":4.0,
+			"historic":[1,2,3,4,5,6],
+			"area":"optativa",
+			"requisites":[""]
+			}
+		]
+	},{
+		"position":2,
+		"courses":[{
+			"name":"Álgebra Lineal para Ingeniería",
+			"id":"BAIN036",
+			"credits":7,
+			"gradeAprobation":4.0,
+			"historic":[2,3,4,1,5,4],
+			"area":"especialidad",
+			"requisites":["Álgebra para Ingeniería"]
+			},{
+				"name":"Cálculo en una Variable",
+				"id":"BAIN037",
+				"credits":6,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"especialidad",
+				"requisites":["Álgebra para Ingeniería"]
+			},{
+				"name":"Física: Mecánica",
+				"id":"BAIN038",
+				"credits":2,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"especialidad",
+				"requisites":["Álgebra para Ingeniería","Geometría para Ingeniería"]
+			},{
+				"name":"Comunicación Idioma Inglés",
+				"id":"BAIN039",
+				"credits":5,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"general",
+				"requisites":[""]
+			},{
+			"name":"Programación",
+			"id":"INFO023",
+			"credits":2,
+			"gradeAprobation":4.0,
+			"historic":[2,3,4,1,5,4],
+			"area":"general",
+			"requisites":["Introducción a la Programación"]
+			},{
+				"name":"Educación Física y Salud",
+				"id":"INFO025",
+				"credits":1,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"general",
+				"requisites":["Álgebra para Ingeniería","Geometría para Ingeniería","Taller de Ingeniería I"]
+			},{
+				"name":"Taller de Ingeniería II",
+				"id":"INFO025",
+				"credits":1,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"vinculante",
+				"requisites":["Álgebra para Ingeniería","Geometría para Ingeniería","Taller de Ingeniería I"]
+			}
+		]
+	},{
+		"position":3,
+		"courses":[{
+			"name":"Ecuaciones Diferenciales para Ingeniería",
+			"id":"BAIN041",
+			"credits":6,
+			"gradeAprobation":4.0,
+			"historic":[2,3,4,1,5,4],
+			"area":"especialidad",
+			"requisites":["Cálculo I para Ingeniería"]
+			},{
+				"name":"Cálculo en Varias Variables",
+				"id":"BAIN042",
+				"credits":2,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"especialidad",
+				"requisites":["Cálculo I para Ingeniería"]
+			},{
+				"name":"Física: Ondas y Electromagnetismo",
+				"id":"BAIN043",
+				"credits":3,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"especialidad",
+				"requisites":["Cálculo I para Ingeniería","Física I para Ingeniería"]
+			},{
+			"name":"Máquina y Herramientas",
+			"id":"INFO043",
+			"credits":2,
+			"gradeAprobation":4.0,
+			"historic":[2,3,4,1,5,4],
+			"area":"especialidad",
+			"requisites":["Álgebra Lineal para Ingeniería","Introducción a la Programación"]
+			},{
+				"name":"Taller de Ingeniería III",
+				"id":"INFO035",
+				"credits":2,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"vinculante",
+				"requisites":["Programación","Taller de Ingeniería II"]
+			},{
+				"name":"Optativo de Formación General II",
+				"id":"INFO033",
+				"credits":4,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"optativa",
+				"requisites":["Programación"]
+			}
+		]
+	},{
+		"position":4,
+		"courses":[{
+			"name":"Métodos Numéricos para Ingeniería",
+			"id":"BAIN053",
+			"credits":3,
+			"gradeAprobation":4.0,
+			"historic":[2,3,4,1,5,4],
+			"area":"especialidad",
+			"requisites":["Ecuaciones Diferenciales para Ingeniería"]
+			},{
+				"name":"Física: Fluidos y Termodinámica",
+				"id":"BAIN054",
+				"credits":7,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"especialidad",
+				"requisites":["Cálculo II para Ingeniería","Ecuaciones Diferenciales para Ingeniería"]
+			},{
+			"name":"Dibujo de Ingeniería",
+			"id":"INFO053",
+			"credits":4,
+			"gradeAprobation":4.0,
+			"historic":[2,3,4,1,5,4],
+			"area":"especialidad",
+			"requisites":["Estructuras Discretas","Taller de Ingeniería III"]
+			},{
+				"name":"Estadísticas y Probabilidades para Ingeniería",
+				"id":"BAIN052",
+				"credits":6,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"general",
+				"requisites":["Álgebra Lineal para Ingeniería"]
+			},{
+				"name":"Ciencias de los materiales",
+				"id":"",
+				"credits":3,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"general",
+				"requisites":[""]
+			},{
+				"name":"Taller de Diseño en Ingeniería",
+				"id":"INFO045",
+				"credits":6,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"vinculante",
+				"requisites":["Cálculo II para Ingeniería","Ecuaciones Diferenciales para Ingeniería","Taller de Ingeniería III"]
+			}
+		]
+	},{
+		"position":5,
+		"courses":[{
+				"name":"Diseño y Análisis de Experimentos",
+				"id":"INFO175",
+				"credits":7,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"especialidad",
+				"requisites":["Taller de Ingeniería III","Estructuras de Datos y Algoritmos"]
+			},{
+			"name":"Electrotecnia y Máquinas Eléctricas",
+			"id":"INFO164",
+			"credits":3,
+			"gradeAprobation":4.0,
+			"historic":[2,3,4,1,5,4],
+			"area":"especialidad",
+			"requisites":["Estructuras de Datos y Algoritmos"]
+			},{
+			"name":"Proyecto de Estructuras",
+			"id":"INFO184",
+			"credits":2,
+			"gradeAprobation":4.0,
+			"historic":[2,3,4,1,5,4],
+			"area":"vinculante",
+			"requisites":["Taller de Diseño en Ingeniería","Física I para Ingeniería","Química para Ingeniería"]
+			}
+		]
+	},{
+		"position":6,
+		"courses":[{
+				"name":"Mecánica de Fluidos",
+				"id":"INFO173",
+				"credits":4,
+				"gradeAprobation":4.0,
+				"historic":[1,3,2,5,5,3],
+				"area":"especialidad",
+				"requisites":["Proyecto de Estructuras","Electrotecnia y Máquinas Eléctricas","Diseño y Análisis de Experimentos"]
+			},{
+				"name":"Termodinámica",
+				"id":"INFO265",
+				"credits":5,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"especialidad",
+				"requisites":["Estructuras de Datos y Algoritmos","Taller de Ingeniería III"]
+			},{
+			"name":"Proyecto de Mecanismos",
+			"id":"INFO163",
+			"credits":5,
+			"gradeAprobation":4.0,
+			"historic":[2,3,4,1,5,4],
+			"area":"vinculante",
+			"requisites":["Estructuras de Datos y Algoritmos"]
+			},{
+			"name":"Optativo de Especialización I",
+			"id":"INFO165",
+			"credits":3,
+			"gradeAprobation":4.0,
+			"historic":[2,3,4,1,5,4],
+			"area":"optativa",
+			"requisites":["Teoría de Autómatas"]
+			}
+		]
+	},{
+		"position":7,
+		"courses":[{
+			"name":"CAD para Termofluidos ",
+			"id":"INFO185",
+			"credits":4,
+			"gradeAprobation":4.0,
+			"historic":[2,3,4,1,5,4],
+			"area":"especialidad",
+			"requisites":["Arquitectura de Computadores","Cálculo II para Ingeniería","Física III para Ingeniería"]
+			},{
+			"name":"Administración de Empresas",
+			"id":"INFO182",
+			"credits":5,
+			"gradeAprobation":4.0,
+			"historic":[2,3,4,1,5,4],
+			"area":"general",
+			"requisites":["Estadísticas y Probabilidades para Ingeniería"]
+			},{
+				"name":"Proyecto Térmico",
+				"id":"INFO263",
+				"credits":4,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"vinculante",
+				"requisites":["Administración de Empresas","Taller de Construcción de Software"]
+			}
+		]
+	},{
+		"position":8,
+		"courses":[{
+			"name":"Ética y Responsabilidad Profesional",
+			"id":"INFO272",
+			"credits":4,
+			"gradeAprobation":4.0,
+			"historic":[2,3,4,1,5,4],
+			"area":"general",
+			"requisites":["Economía General","Investigación Operativa II"]
+			},{
+			"name":"Ingeniería Económica",
+			"id":"INFO281",
+			"credits":6,
+			"gradeAprobation":4.0,
+			"historic":[2,3,4,1,5,4],
+			"area":"general",
+			"requisites":["Comunicaciones","Sistema Operativo"]
+			},{
+				"name":"Proyecto de Hidráulica",
+				"id":"INFO264",
+				"credits":4,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"vinculante",
+				"requisites":["Bases de Datos","Fundamentos de Ingeniería de Software","Taller de Ingeniería III"]
+			},{
+				"name":"Gira de Estudios",
+				"id":"INFO271",
+				"credits":3,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"vinculante",
+				"requisites":["Administración de Empresas","Economía General","Ingeniería de Sistemas"]
+			},{
+				"name":"Optativo de Especialización II",
+				"id":"INFO284",
+				"credits":4,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"optativa",
+				"requisites":["Análisis de Sistemas Lineales","Física III para Ingeniería","Taller de Construcción de Software"]
+			}
+		]
+	},{
+		"position":9,
+		"courses":[{
+			"name":"Herramientas para Control y Automatización",
+			"id":"INFO272",
+			"credits":4,
+			"gradeAprobation":4.0,
+			"historic":[2,3,4,1,5,4],
+			"area":"especialidad",
+			"requisites":["Economía General","Investigación Operativa II"]
+			},{
+			"name":"Control de Calidad",
+			"id":"INFO281",
+			"credits":6,
+			"gradeAprobation":4.0,
+			"historic":[2,3,4,1,5,4],
+			"area":"especialidad",
+			"requisites":["Comunicaciones","Sistema Operativo"]
+			},{
+				"name":"Formulación y Evaluación de Proyectos de Inversión",
+				"id":"INFO271",
+				"credits":3,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"vinculante",
+				"requisites":["Administración de Empresas","Economía General","Ingeniería de Sistemas"]
+			},{
+				"name":"Práctica Profesional",
+				"id":"INFO284",
+				"credits":4,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"vinculante",
+				"requisites":["Análisis de Sistemas Lineales","Física III para Ingeniería","Taller de Construcción de Software"]
+			}
+		]
+	},{
+		"position":10,
+		"courses":[{
+			"name":"Procesamiento Digital de Señales",
+			"id":"INFO272",
+			"credits":4,
+			"gradeAprobation":4.0,
+			"historic":[2,3,4,1,5,4],
+			"area":"especialidad",
+			"requisites":["Economía General","Investigación Operativa II"]
+			},{
+			"name":"Investigación de Operaciones",
+			"id":"INFO281",
+			"credits":6,
+			"gradeAprobation":4.0,
+			"historic":[2,3,4,1,5,4],
+			"area":"general",
+			"requisites":["Comunicaciones","Sistema Operativo"]
+			},{
+			"name":"Proyectos de Manufactura y Control",
+			"id":"INFO281",
+			"credits":6,
+			"gradeAprobation":4.0,
+			"historic":[2,3,4,1,5,4],
+			"area":"vinculante",
+			"requisites":["Comunicaciones","Sistema Operativo"]
+			}
+		]
+	},{
+		"position":11,
+		"courses":[{
+			"name":"Módulo: Proyecto Profesional",
+			"id":"INFO281",
+			"credits":6,
+			"gradeAprobation":4.0,
+			"historic":[2,3,4,1,5,4],
+			"area":"especialidad",
+			"requisites":["Comunicaciones","Sistema Operativo"]
+			},{
+				"name":"Ingeniería en Mantenimiento",
+				"id":"INFO271",
+				"credits":3,
+				"gradeAprobation":4.0,
+				"historic":[2,3,4,1,5,4],
+				"area":"especialidad",
+				"requisites":["Administración de Empresas","Economía General","Ingeniería de Sistemas"]
+			},{
+			"name":"Emprendimiento e Innovación Tecnológica",
+			"id":"INFO272",
+			"credits":4,
+			"gradeAprobation":4.0,
+			"historic":[2,3,4,1,5,4],
+			"area":"general",
+			"requisites":["Economía General","Investigación Operativa II"]
+			}
+		]
+	}]
+}
+]
